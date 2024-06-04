@@ -1,5 +1,16 @@
 # IAM and Security Group Analyzer
 
+## Index
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Project Structure](#project-structure)
+4. [Installation](#installation)
+5. [Usage](#usage)
+6. [Dependencies](#dependencies)
+7. [License](#license)
+8. [Contributing](#contributing)
+9. [Contact](#contact)
+
 ## Overview
 This project provides a tool to analyze AWS IAM users and security group rules. The purpose is to identify security group ingress rules that do not match any IAM user's name, helping to ensure that all security group descriptions are relevant and properly associated with actual IAM users.
 
