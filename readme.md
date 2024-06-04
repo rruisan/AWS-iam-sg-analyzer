@@ -31,8 +31,8 @@ This project provides a tool to analyze AWS IAM users and security group rules. 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/iam-sg-analyzer.git
-    cd iam-sg-analyzer
+    git clone https://github.com/rruisan/AWS-iam-sg-analyzer.git
+    cd AWS-iam-sg-analyzer
     ```
 
 2. Create a virtual environment and activate it:
